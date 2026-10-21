@@ -8,12 +8,30 @@ I build **AI Native products** that bring LLMs and agents into real workflows, w
 
 ## What I use · 技术栈
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/tech-stack-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/tech-stack-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
-  <img src="assets/tech-stack-light.svg" width="100%" alt="AI &amp; Agents: DeepSeek, LLM APIs, Tool Calling, Agent Workflows. Frontend: React, Next.js, Vue 3, Vite, Tailwind CSS, Element Plus. Backend: Node.js, Express, .NET, REST APIs. Languages: JavaScript, TypeScript, C#, HTML, CSS. Data: SQLite, MySQL, PostgreSQL, Redis, Supabase.">
-</picture>
+<h3>AI &amp; Agents <sub>AI 与智能体</sub></h3>
+<p>
+  <code>DeepSeek</code> &nbsp; <code>LLM APIs</code> &nbsp; <code>Tool Calling</code> &nbsp; <code>Agent Workflows</code>
+</p>
+
+<h3>Frontend <sub>前端</sub></h3>
+<p>
+  <code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>Vue 3</code> &nbsp; <code>Vite</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>Element Plus</code>
+</p>
+
+<h3>Backend <sub>后端</sub></h3>
+<p>
+  <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>.NET</code> &nbsp; <code>REST APIs</code>
+</p>
+
+<h3>Languages <sub>语言</sub></h3>
+<p>
+  <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>C#</code> &nbsp; <code>HTML</code> &nbsp; <code>CSS</code>
+</p>
+
+<h3>Data <sub>数据</sub></h3>
+<p>
+  <code>SQLite</code> &nbsp; <code>MySQL</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Redis</code> &nbsp; <code>Supabase</code>
+</p>
 
 ## Open source projects · 开源项目
 
