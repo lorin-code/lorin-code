@@ -1,5 +1,3 @@
-![Abstract search signals converging on a search icon](assets/search-signals.svg)
-
 # Hi, I'm Lorin
 
 我专注于 **AI Native 产品开发**，把大模型和 Agent 能力融入真实工作流；持续探索 **AI 搜索可见性、SEO / GEO 和商机线索发现**。
