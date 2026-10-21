@@ -14,6 +14,7 @@ I build **AI Native products** that bring LLMs and agents into real workflows, w
 | **Frontend · 前端** | `React` `Next.js` `Vue 3` `Vite` `Tailwind CSS` `Element Plus` |
 | **Backend · 后端** | `Node.js` `Express` `.NET` `REST APIs` |
 | **Data · 数据** | `SQLite` `MySQL` `PostgreSQL` `Redis` `Supabase` |
+| **AI & Agents · AI 与智能体** | `DeepSeek` `LLM APIs` `Tool Calling` `Agent Workflows` |
 
 ## Open source projects · 开源项目
 
