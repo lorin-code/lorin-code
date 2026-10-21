@@ -4,6 +4,8 @@
 
 I build **AI Native products** that bring LLMs and agents into real workflows, with a focus on AI search visibility, SEO / GEO, and business lead discovery.
 
+**[个人主页 · Personal website](https://lorin-code.github.io/)**
+
 ## What I use · 技术栈
 
 <h3>AI &amp; Agents <sub>AI 与智能体</sub></h3>
