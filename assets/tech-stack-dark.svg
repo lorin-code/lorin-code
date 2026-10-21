@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="462" viewBox="0 0 840 462" role="img" aria-labelledby="title desc">
+<title id="title">AI &amp; Agents, Frontend, Backend, Languages, and Data</title><desc id="desc">DeepSeek, LLM APIs, Tool Calling, Agent Workflows; React, Next.js, Vue 3, Vite, Tailwind CSS, Element Plus; Node.js, Express, .NET, REST APIs; JavaScript, TypeScript, C#, HTML, CSS; SQLite, MySQL, PostgreSQL, Redis, Supabase.</desc>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, PingFang SC, Microsoft YaHei, sans-serif">
+<rect width="840" height="126" rx="14" fill="#112B34"/>
+<g transform="translate(22 24)" stroke="#87D8CB" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="6" cy="12" r="3"/><circle cx="22" cy="5" r="3"/><circle cx="22" cy="20" r="3"/><path d="m9 11 10-5M9 13l10 6"/></g>
+<text x="64" y="46" font-size="25" font-weight="600" fill="#E7F2F5" >AI &amp; Agents</text>
+<text x="64" y="69" font-size="14" font-weight="400" fill="#B5C6D0" >AI 与智能体</text>
+<text x="24" y="101" font-size="20" font-weight="500" fill="#E7F2F5" >DeepSeek</text>
+<text x="184" y="101" font-size="20" font-weight="500" fill="#E7F2F5" >LLM APIs</text>
+<text x="370" y="101" font-size="20" font-weight="500" fill="#E7F2F5" >Tool Calling</text>
+<text x="572" y="101" font-size="20" font-weight="500" fill="#E7F2F5" >Agent Workflows</text>
+<g transform="translate(6 170)" stroke="#87D8CB" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="2" y="3" width="24" height="21" rx="3"/><path d="M2 10h24M9 10v14"/><path d="M6 6.5h.01m4 0h.01"/></g>
+<text x="48" y="192" font-size="24" font-weight="600" fill="#E7F2F5" >Frontend</text>
+<text x="169" y="191" font-size="14" font-weight="400" fill="#B5C6D0" >前端</text>
+<text x="9" y="235" font-size="18" font-weight="400" fill="#B5C6D0" >React</text><text x="121" y="235" font-size="18" font-weight="400" fill="#B5C6D0" >Next.js</text><text x="257" y="235" font-size="18" font-weight="400" fill="#B5C6D0" >Vue 3</text>
+<text x="9" y="263" font-size="18" font-weight="400" fill="#B5C6D0" >Vite</text><text x="121" y="263" font-size="18" font-weight="400" fill="#B5C6D0" >Tailwind CSS</text><text x="257" y="263" font-size="18" font-weight="400" fill="#B5C6D0" >Element Plus</text>
+<g transform="translate(446 170)" stroke="#87D8CB" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="2" y="3" width="24" height="9" rx="3"/><rect x="2" y="16" width="24" height="9" rx="3"/><path d="M7 7.5h.01m0 13h.01M17 7.5h4m-4 13h4"/></g>
+<text x="488" y="192" font-size="24" font-weight="600" fill="#E7F2F5" >Backend</text>
+<text x="601" y="191" font-size="14" font-weight="400" fill="#B5C6D0" >后端</text>
+<text x="449" y="235" font-size="18" font-weight="400" fill="#B5C6D0" >Node.js</text><text x="561" y="235" font-size="18" font-weight="400" fill="#B5C6D0" >Express</text>
+<text x="449" y="263" font-size="18" font-weight="400" fill="#B5C6D0" >.NET</text><text x="561" y="263" font-size="18" font-weight="400" fill="#B5C6D0" >REST APIs</text>
+<g transform="translate(6 328)" stroke="#87D8CB" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="m9 7-7 7 7 7m10-14 7 7-7 7M16 3l-4 22"/></g>
+<text x="48" y="350" font-size="24" font-weight="600" fill="#E7F2F5" >Languages</text>
+<text x="186" y="349" font-size="14" font-weight="400" fill="#B5C6D0" >语言</text>
+<text x="9" y="393" font-size="18" font-weight="400" fill="#B5C6D0" >JavaScript</text><text x="121" y="393" font-size="18" font-weight="400" fill="#B5C6D0" >TypeScript</text><text x="257" y="393" font-size="18" font-weight="400" fill="#B5C6D0" >C#</text>
+<text x="9" y="421" font-size="18" font-weight="400" fill="#B5C6D0" >HTML</text><text x="121" y="421" font-size="18" font-weight="400" fill="#B5C6D0" >CSS</text>
+<g transform="translate(446 328)" stroke="#87D8CB" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" fill="none"><ellipse cx="14" cy="6" rx="11" ry="4"/><path d="M3 6v16c0 2.2 4.9 4 11 4s11-1.8 11-4V6M3 14c0 2.2 4.9 4 11 4s11-1.8 11-4"/></g>
+<text x="488" y="350" font-size="24" font-weight="600" fill="#E7F2F5" >Data</text>
+<text x="564" y="349" font-size="14" font-weight="400" fill="#B5C6D0" >数据</text>
+<text x="449" y="393" font-size="18" font-weight="400" fill="#B5C6D0" >SQLite</text><text x="561" y="393" font-size="18" font-weight="400" fill="#B5C6D0" >MySQL</text><text x="697" y="393" font-size="18" font-weight="400" fill="#B5C6D0" >PostgreSQL</text>
+<text x="449" y="421" font-size="18" font-weight="400" fill="#B5C6D0" >Redis</text><text x="561" y="421" font-size="18" font-weight="400" fill="#B5C6D0" >Supabase</text>
+</g></svg>
