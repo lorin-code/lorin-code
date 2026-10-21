@@ -1,37 +1,56 @@
-# Hi, I'm Lorin
+<h1 align="center">Hi, I'm Lorin</h1>
 
-我专注于 **AI Native 产品开发**，把大模型和 Agent 能力融入真实工作流；持续探索 **AI 搜索可见性、SEO / GEO 和商机线索发现**。
+<p align="center"><strong>AI Native 产品开发 &nbsp; / &nbsp; 全栈开发 &nbsp; / &nbsp; 微信原生小程序</strong></p>
 
-I build **AI Native products** that bring LLMs and agents into real workflows, with a focus on AI search visibility, SEO / GEO, and business lead discovery.
-
-**[个人主页 · Personal website](https://lorin-code.github.io/)**
-
-## What I use · 技术栈
-
-<h3>AI &amp; Agents <sub>AI 与智能体</sub></h3>
-<p>
-  <code>DeepSeek</code> &nbsp; <code>LLM APIs</code> &nbsp; <code>Tool Calling</code> &nbsp; <code>Agent Workflows</code>
+<p align="center">
+  把大模型与 Agent 能力融入真实工作流。<br>
+  持续探索 AI 搜索可见性、SEO / GEO 和商机线索发现。
 </p>
 
-<h3>Frontend <sub>前端</sub></h3>
-<p>
-  <code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>Vue 3</code> &nbsp; <code>Vite</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>Element Plus</code>
+<p align="center"><sub>I build AI Native products that bring LLMs and agents into real workflows.</sub></p>
+
+<p align="center">
+  <a href="#tech-stack">技术栈</a> &nbsp; · &nbsp;
+  <a href="#open-source-projects--开源项目">开源项目</a> &nbsp; · &nbsp;
+  <a href="https://lorin-code.github.io/">个人网站</a>
 </p>
 
-<h3>Backend <sub>后端</sub></h3>
-<p>
-  <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>.NET</code> &nbsp; <code>REST APIs</code>
+## Tech stack
+
+<h4 align="center">AI &amp; Agents · AI 与智能体</h4>
+<p align="center">
+  <kbd><strong>DeepSeek</strong></kbd> &nbsp; <kbd><strong>LLM APIs</strong></kbd> &nbsp; <kbd><strong>Tool Calling</strong></kbd> &nbsp; <kbd><strong>Agent Workflows</strong></kbd>
 </p>
 
-<h3>Languages <sub>语言</sub></h3>
-<p>
-  <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>C#</code> &nbsp; <code>HTML</code> &nbsp; <code>CSS</code>
+<h4 align="center">Frontend · 前端</h4>
+<p align="center">
+  <kbd><strong>React</strong></kbd> &nbsp; <kbd><strong>Next.js</strong></kbd> &nbsp; <kbd><strong>Vue 3</strong></kbd> &nbsp; <kbd><strong>Tailwind CSS</strong></kbd> &nbsp; <kbd><strong>Element Plus</strong></kbd>
 </p>
 
-<h3>Data <sub>数据</sub></h3>
-<p>
-  <code>SQLite</code> &nbsp; <code>MySQL</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Redis</code> &nbsp; <code>Supabase</code>
+<h4 align="center">Backend · 后端</h4>
+<p align="center">
+  <kbd><strong>Node.js</strong></kbd> &nbsp; <kbd><strong>Express</strong></kbd> &nbsp; <kbd><strong>.NET</strong></kbd> &nbsp; <kbd><strong>REST APIs</strong></kbd>
 </p>
+
+<h4 align="center">Data · 数据</h4>
+<p align="center">
+  <kbd><strong>PostgreSQL</strong></kbd> &nbsp; <kbd><strong>SQLite</strong></kbd> &nbsp; <kbd><strong>MySQL</strong></kbd> &nbsp; <kbd><strong>Redis</strong></kbd> &nbsp; <kbd><strong>Supabase</strong></kbd>
+</p>
+
+<h4 align="center">Mini Programs · 微信原生小程序</h4>
+<p align="center">
+  <kbd><strong>微信原生开发</strong></kbd> &nbsp; <kbd><strong>WXML</strong></kbd> &nbsp; <kbd><strong>WXSS</strong></kbd>
+</p>
+
+<h4 align="center">Languages &amp; Tools · 语言与工具</h4>
+<p align="center">
+  <kbd><strong>TypeScript</strong></kbd> &nbsp; <kbd><strong>JavaScript</strong></kbd> &nbsp; <kbd><strong>C#</strong></kbd> &nbsp; <kbd><strong>HTML</strong></kbd> &nbsp; <kbd><strong>CSS</strong></kbd> &nbsp; <kbd><strong>Vite</strong></kbd>
+</p>
+
+<details>
+<summary>更多开发工具</summary>
+<p><kbd>React Router</kbd> &nbsp; <kbd>sharp</kbd> &nbsp; <kbd>Vitest</kbd></p>
+</details>
 
 ## Open source projects · 开源项目
 
