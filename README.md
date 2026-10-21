@@ -2,9 +2,9 @@
 
 # Hi, I'm Lorin
 
-我专注于 **AI Native 产品开发**，把大模型能力融入真实工作流；AI 搜索可见性和 SEO / GEO 是我持续探索的方向。
+我专注于 **AI Native 产品开发**，把大模型和 Agent 能力融入真实工作流；持续探索 **AI 搜索可见性、SEO / GEO 和商机线索发现**。
 
-I build **AI Native products** that bring LLM capabilities into real workflows, with a focus on AI search visibility and SEO / GEO.
+I build **AI Native products** that bring LLMs and agents into real workflows, with a focus on AI search visibility, SEO / GEO, and business lead discovery.
 
 ## What I use · 技术栈
 
@@ -16,6 +16,13 @@ I build **AI Native products** that bring LLM capabilities into real workflows, 
 | **Data · 数据** | `SQLite` `MySQL` `PostgreSQL` `Redis` `Supabase` |
 
 ## Open source projects · 开源项目
+
+### [AI 线索助手 · Map AI Leads Agent](https://github.com/lorin-code/map-ai-leads-agent)
+
+用自然语言查找高德地图公开 POI，支持多轮对话、线索筛选、会话保存和 CSV 导出。<br>
+Finds public POI data from Amap through natural-language conversations, with lead filtering, saved sessions, and CSV export.
+
+`Next.js` · `DeepSeek` · `SQLite` · `Amap API`
 
 ### [GoodieAI GEO Monitoring System](https://github.com/lorin-code/ai-geo-monitoring)
 
